@@ -4,7 +4,21 @@
     "hasFrontmatterDate": true,
     "date": "7 June 2023",
     "templateContent": "this example standard design history post",
-    "url": "/example-post/"
+    "url": "/what-is-prn/"
+  },  {
+    "title": "enrolment journey",
+"description": "This post is about enrolment journey and changes made specifically for PRN","section": "Home",    "layout": "post",
+    "hasFrontmatterDate": true,
+    "date": "7 June 2023",
+    "templateContent": "this example standard design history post",
+    "url": "/enrollment/"
+  },  {
+    "title": "First version of raising, issuing and managing a PRN",
+"description": "This post is about the first iteration of raising, issuing and managing a PRN designed by Helen and Joe","section": "Home",    "layout": "post",
+    "hasFrontmatterDate": true,
+    "date": "7 June 2023",
+    "templateContent": "this example standard design history post",
+    "url": "/manage-a-prn/"
   },  {
     "title": "A design history for Packing Recovery Notes (PRN/PERNs)",
 "description": "Documenting the design decisions made during alpha for Packing Recovery Notes",    "layout": "home",
