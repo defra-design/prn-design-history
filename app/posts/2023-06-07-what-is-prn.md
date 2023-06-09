@@ -5,4 +5,4 @@ date: 2023-06-07
 
 ---
 
-This is an example of a standard design history post
+post which explains what PRN and PERNS are 

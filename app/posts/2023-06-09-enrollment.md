@@ -1,8 +1,17 @@
 ---
-title: enrolment journey
+title: Enrolment journey
 description: This post is about enrolment journey and changes made specifically for PRN
-date: 2023-06-07
+date: 2023-06-09
 
 ---
 
-This is an example of a standard design history post
+
+Lifting flow from packing report data....
+
+
+![userflow for enrolment](/userflow-enrolment.png)
+
+
+adding screen about NPWD number...
+
+![userflow for enrolment](/NPWD-number.png)
