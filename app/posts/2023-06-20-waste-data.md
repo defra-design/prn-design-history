@@ -42,8 +42,11 @@ In year 1 there is no requirements for the users to enter information about the 
 
 ### Waste records
 
+Created a view to allow users to see all waste records created and edit them using a check your answers style page.
 
- ![source](/waste-records.png)
+We took the content for the table from NPWD and want to see via research weather users find this information valuable and iterate it.
+
+ ![waste data records ](/waste-records.png)
 
 
 
