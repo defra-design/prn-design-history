@@ -25,10 +25,10 @@ We plan to feedback any research we get into the card pattern into the alphagov 
 ### Adding questions which are optional
 
 
-Normally we would avoid asking questions which are optional or clearly mark them but we want to find out thought research a few different things:
+Normally we would avoid asking questions which are optional or clearly mark them but we want to find out through research a few different things:
 
-1. weather users sell their PRNs before raising them
-2. weather users find being able to add their own reference and note useful
+1. Whether users sell their PRNs before raising them
+2. Whether users find being able to add their own reference and note useful
 
 
 ![optional questions](/optional-q.png)
@@ -42,4 +42,4 @@ Some words
 
 ### Research plan
 
-The initial design for 'raising, issuing and managing PRN' will be thought its first round of user research in sprint 4.
+The initial design for 'raising, issuing and managing PRN' will be through its first round of user research in sprint 4.

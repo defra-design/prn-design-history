@@ -23,7 +23,7 @@ This post is about the first iteration of waste data submission.
 
 ### File upload
 
-one of the assumptions we want to find out about in research is weather our users will find it useful being able to 'upload a file' instead of enter all the information manually.
+one of the assumptions we want to find out about in research is Whether our users will find it useful being able to 'upload a file' instead of enter all the information manually.
 
 we took the file upload journey directly from RPD and did some minor content changes
 
@@ -35,7 +35,7 @@ we took the file upload journey directly from RPD and did some minor content cha
 ### Enter a source name
 
 
-In year 1 there is no requirements for the users to enter information about the source of the waste. we wanted to add this into the initial design for research to understand weather or not our users have this information currently and get them ready for the future of the product.
+In year 1 there is no requirements for the users to enter information about the source of the waste. we wanted to add this into the initial design for research to understand Whether or not our users have this information currently and get them ready for the future of the product.
 
 
  ![source](/source.png)
@@ -44,7 +44,7 @@ In year 1 there is no requirements for the users to enter information about the 
 
 Created a view to allow users to see all waste records created and edit them using a check your answers style page.
 
-We took the content for the table from NPWD and want to see via research weather users find this information valuable and iterate it.
+We took the content for the table from NPWD and want to see via research Whether users find this information valuable and iterate it.
 
  ![waste data records ](/waste-records.png)
 
@@ -53,4 +53,4 @@ We took the content for the table from NPWD and want to see via research weather
 
 ## Research plan
 
-The initial design for 'Record your waste' will be thought its first round of user research in sprint 5.
+The initial design for 'Record your waste' will be through its first round of user research in sprint 5.
