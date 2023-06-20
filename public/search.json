@@ -1,4 +1,11 @@
 [  {
+    "title": "First version of raising, issuing and managing a PRN",
+"description": "This post is about the first iteration of raising, issuing and managing a PRN designed by Helen and Joe","section": "Home",    "layout": "post",
+    "hasFrontmatterDate": true,
+    "date": "1 June 2023",
+    "templateContent": "this post about first iteration raising issuing managing prn designed by helen joe figma work inital flow design were done have since moved all prototype kit using components from system backlog are dave house card patterns plan feedback any research get into pattern alphagov adding questions which optional normally would avoid asking clearly mark them want find out thought few different things: weather users sell their prns before being able add own reference note useful manage your some words initial will its round user sprint 4",
+    "url": "/manage-a-prn/"
+  },  {
     "title": "A design history for Packing Recovery Notes (PRN/PERNs)",
 "description": "Documenting the design decisions made during alpha for Packing Recovery Notes",    "layout": "home",
     "hasFrontmatterDate": false,
@@ -12,13 +19,6 @@
     "date": "9 June 2023",
     "templateContent": "are re using enrolment flow which designed by report packing data team with few small changes our users removed any reference rpd from prototype added extra questions end ask them npwd number this will allow defra identify match account legacy system",
     "url": "/enrollment/"
-  },  {
-    "title": "First version of raising, issuing and managing a PRN",
-"description": "This post is about the first iteration of raising, issuing and managing a PRN designed by Helen and Joe","section": "Home",    "layout": "post",
-    "hasFrontmatterDate": true,
-    "date": "9 June 2023",
-    "templateContent": "this example standard design history post using dave house card patterns from alpha gov backlog",
-    "url": "/manage-a-prn/"
   },  {
     "title": "First version of waste data submission",
 "description": "This post is about the first iteration of waste data submission","section": "Home",    "layout": "post",
