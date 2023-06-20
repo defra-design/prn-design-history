@@ -1,7 +1,7 @@
 ---
 title: First version of waste data submission
 description: This post is about the first iteration of waste data submission
-date: 2023-06-09
+date: 2023-06-20
 
 ---
 

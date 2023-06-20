@@ -23,7 +23,7 @@
     "title": "First version of waste data submission",
 "description": "This post is about the first iteration of waste data submission","section": "Home",    "layout": "post",
     "hasFrontmatterDate": true,
-    "date": "9 June 2023",
+    "date": "20 June 2023",
     "templateContent": "this post about first iteration waste data submission co design session ran with product business people better understand requirements created basic flow mural board creating initial prototype using govuk kit collaboratively these are some key decisions made file upload one assumptions want find out research weather our users will useful being able instead enter all information manually took journey directly from rpd did minor content changes source name year 1 there wanted add into have currently get them ready future records view allow see edit check your answers style page table npwd via valuable iterate plan record thought its round user sprint 5",
     "url": "/waste-data/"
   }]
