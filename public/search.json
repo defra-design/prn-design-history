@@ -1,11 +1,4 @@
 [  {
-    "title": "What is packing recovery notes (PRN/PERNS)",
-"description": "This is an example of a standard design history post","section": "Home",    "layout": "post",
-    "hasFrontmatterDate": true,
-    "date": "7 June 2023",
-    "templateContent": "post which explains what prn perns are",
-    "url": "/what-is-prn/"
-  },  {
     "title": "A design history for Packing Recovery Notes (PRN/PERNs)",
 "description": "Documenting the design decisions made during alpha for Packing Recovery Notes",    "layout": "home",
     "hasFrontmatterDate": false,
@@ -17,7 +10,7 @@
 "description": "This post is about enrolment journey and changes made specifically for PRN","section": "Home",    "layout": "post",
     "hasFrontmatterDate": true,
     "date": "9 June 2023",
-    "templateContent": "lifting flow from packing report data… adding screen about npwd number…",
+    "templateContent": "are re using enrolment flow which designed by report packing data team with few small changes our users removed any reference rpd from prototype added extra questions end ask them npwd number this will allow defra identify match account legacy system",
     "url": "/enrollment/"
   },  {
     "title": "First version of raising, issuing and managing a PRN",
@@ -26,4 +19,11 @@
     "date": "9 June 2023",
     "templateContent": "this example standard design history post using dave house card patterns from alpha gov backlog",
     "url": "/manage-a-prn/"
+  },  {
+    "title": "First version of waste data submission",
+"description": "This post is about the first iteration of waste data submission","section": "Home",    "layout": "post",
+    "hasFrontmatterDate": true,
+    "date": "9 June 2023",
+    "templateContent": "this post about first iteration waste data submission co design session ran with product business people better understand requirements created basic flow mural board creating initial prototype using govuk kit collaboratively these are some key decisions made file upload one assumptions want find out research weather our users will useful being able instead enter all information manually took journey directly from rpd did minor content changes source name year 1 there wanted add into have currently get them ready future records plan record your thought its round user sprint 5",
+    "url": "/waste-data/"
   }]
