@@ -1,52 +1,69 @@
 ---
 title: Iteration based on the first round of research on raising, issuing and managing a PRN
-description: This post is about the first iteration of raising, issuing and managing a PRN based on research from sprint 3
+description: This post is about the first iteration of raising, issuing, and managing a PRN based on research from sprint 3.
 date: 2023-06-30
 
 ---
 
-This post is about the first iteration of raising, issuing and managing a PRN based on research from sprint 3.
+This post is about the first iteration of raising, issuing, and managing a PRN based on research from sprint 3.
 
-In this post we'll be doing into details about the main iteration we created based on research from the previous sprint, the main iteration we made were:
-
-
-- Changed the order of raise a PRN/waste records boxes
-- Changed order of pages and put accreditations years first – added previous years
-- Changed the link content on the raised PRN box so it is clearer that is where the raised ones are
-- Changed the issued PRN boxes to be a table with filters
-- Changed the skip link to be next to the continue button and removed optional questions from raising a prn
+The main iterations we made were:
 
 
-###  Changed the order of raise a PRN/waste records boxes and changed order of landing pages
+- removed all optional questions from raising a PRN
+
+- changed the order of the manage your PRN/Create a waste record boxes
+
+- changed order of pages and put accreditations first – added previous years accreditations too  
+
+- changed the link content on the raised PRN box so it is clearer that is where the raised ones are
+
+- changed the issued PRN boxes to be a table with filters
+
+- changed the skip link to be next to the continue button  
 
 
-we changed the order of the accreditation screen and task screen based on comments from 3 participants about being unsure which accreditation they were choosing on the original landing page.
+
+###  Removed all of the optional questions
+
+We removed all the optional questions from the PRN flow because most of the participants said they either wouldn’t find them useful or didn’t feel comfortable filling them out.
+
+###  Changed the order of raise a PRN/waste record boxes and changed order of landing pages
+
+We changed the order of the accreditation screen and task screen based on comments from 3 participants about being unsure which accreditation they were choosing on the original landing page.
+We also added previous accreditations as they mentioned they would like to be able to view these.  
 
 
 ![manage your PRNs](/accreditations.png)
 
 
-
-2 participants mentioned the order of the 'task' page wasnt the order you actually do things, 'record your waste' would be first.
+2 participants mentioned the order of the ‘task’ page wasn’t in the order you actually do things, ‘record your waste’ would be first.
 
 ![manage your PRNs](/paperboard.png)
 
-###  Changed the link content on the raised PRN box so it is clearer that is where the raised ones are
+###  Changed the link content and description on the raised PRN box so it is clearer that is where the raised ones are
+
+
+![manage your PRNs](/raisedprns.png)
+
+We amended the link text and description as the users commented that they couldn’t understand where the Raised PRNs had gone when it said ‘Issue PRNs’ as the action-led link.  
+We have changed it to read the opposite way, where the raised PRNs is the focus with the issuing action mentioned in the description – this might require further iteration.
 
 
 ###  Changed the issued PRN boxes to be a table with filters
 
-most of the participants didnt find the pre fitlered tables clear or didnt understand where to actions like amend. we also felt like having a forth layer underneath the landing pages was difficult and confusing to navigiaton.
+Most of the participants didn’t find the pre-filtered tables clear or didn’t understand where to amend.  
+We also felt that having a fourth layer underneath the landing pages was difficult and adding to the confusion they were having when navigating.  
 
-we moved to showing all the Issued PRN in a table which can be filtered by users.
+We changed the design to show all the Issued PRNs in a table which can be filtered by users. This gives the users flexibility to manipulate the data.  
+
+We are interested to see if they ask for further features including ordering the columns and a search.  
 
 ![manage your PRNs](/prnfiltered.png)
 
 
 ###  Changed the skip link to be next to the continue button and removed optional questions from raising a prn
 
-most of the participants didnt notice the skip link unless prompted so we have moved it next to the main call to action.
-
-we also removed all the optional questions from the PRN flow because most of the participants said they either wouldnt find them useful or didnt feel comfortable filling them out.
+Most of the participants didn’t notice the skip link unless prompted so we have moved it next to the main call to action.
 
 ![manage your PRNs](/skiplink.png)
