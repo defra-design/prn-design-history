@@ -13,13 +13,6 @@
     "templateContent": "",
     "url": "/"
   },  {
-    "title": "Enrolment journey",
-"description": "This post is about enrolment journey and changes made specifically for PRN","section": "Home",    "layout": "post",
-    "hasFrontmatterDate": true,
-    "date": "9 June 2023",
-    "templateContent": "are re using enrolment flow which designed by report packing data team with few small changes our users removed any reference rpd from prototype added extra questions end ask them npwd number this will allow defra identify match account legacy system",
-    "url": "/enrollment/"
-  },  {
     "title": "First version of waste data submission",
 "description": "This post is about the first iteration of waste data submission","section": "Home",    "layout": "post",
     "hasFrontmatterDate": true,
@@ -28,9 +21,16 @@
     "url": "/waste-data/"
   },  {
     "title": "Iteration based on the first round of research on raising, issuing and managing a PRN",
-"description": "This post is about the first iteration of raising, issuing and managing a PRN based on research from sprint 3","section": "Home",    "layout": "post",
+"description": "This post is about the first iteration of raising, issuing, and managing a PRN based on research from sprint 3.","section": "Home",    "layout": "post",
     "hasFrontmatterDate": true,
     "date": "30 June 2023",
-    "templateContent": "this post about first iteration raising issuing managing prn based research from sprint 3 doing into details main created previous made were: changed order raise waste records boxes pages put accreditations years added link content raised box clearer that where ones are issued table with filters skip next continue button removed optional questions landing accreditation screen task comments participants being unsure which they were choosing original page 2 mentioned wasnt actually things record your would most didnt find pre fitlered tables clear understand actions like amend also felt having forth layer underneath difficult confusing navigiaton moved showing all can filtered by users notice unless prompted have call action flow because said either wouldnt them useful feel comfortable filling out",
+    "templateContent": "this post about first iteration raising issuing managing prn based research from sprint 3 main iterations made were: removed all optional questions changed order manage your create waste record boxes pages put accreditations added previous years too link content raised box clearer that where ones are issued table with filters skip next continue button flow because most participants said they either find them useful feel comfortable filling out raise landing accreditation screen task comments being unsure which were choosing original page also mentioned would like able view these 2 actually things description amended text users commented understand prns had gone when issue action led have read opposite way focus might require further pre filtered tables clear amend felt having fourth layer underneath difficult adding confusion navigating design show can by gives flexibility manipulate data interested see ask features including ordering columns search notice unless prompted moved call",
     "url": "/manage-a-prn-iterations/"
+  },  {
+    "title": "Second iteration based on the second round of research on raising, issuing and managing a PRN and record your waste",
+"description": "This post is about the second iteration of raising, issuing, and managing a PRN based on research from sprint 4.","section": "Home",    "layout": "post",
+    "hasFrontmatterDate": true,
+    "date": "17 July 2023",
+    "templateContent": "this post about second iteration raising issuing managing prn based research from sprint 4 changes manage your landing page continuing our previous users were still confused by raised tables made significant change screen more reflect user workflow confusion around which accreditation some they recording waste against changed caption above h1 task are doing example record now file upload content experimental version lots feedback form journeys being too suspect because using gds approach one thing per have created verison test next logical groupings data items significantly reduce pages",
+    "url": "/manage-a-prn-waste-data/"
   }]
