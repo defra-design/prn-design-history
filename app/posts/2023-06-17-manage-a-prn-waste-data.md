@@ -40,6 +40,6 @@ We added some extra content to express what the file upload is for. This was so 
 
 We heard a lot of feedback from users about the journeys being too ‘long-winded’. Often mentioning the GDS approach of ‘one thing per page’. They felt that in comparison to the ‘all on one page’ approach on NPWD, this would take them longer to fill in.  
 In response, we have created an experimental version of the journeys, which we will test next sprint. This version uses logical, thematic groupings of data items which significantly reduce the number of pages in the journeys.
- 
+
 
 ![Experimental version](/experimental.png)
