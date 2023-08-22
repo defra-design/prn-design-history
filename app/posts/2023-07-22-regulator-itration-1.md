@@ -10,7 +10,7 @@ date: 2023-07-17
 This post is about first iteration based on the first round of research on Regulator prototype
 
 
-
+DRAFT
 
 Regulator -
 
