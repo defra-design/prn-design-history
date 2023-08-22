@@ -1,7 +1,7 @@
 ---
 title: Third iteration based on the fourth round of research on creating PRN and record your waste
 description: This post is about third iteration based on the fourth round of research on creating PRN and record your waste from sprint 6
-date: 2023-07-17
+date: 2023-08-17
 
 ---
 
