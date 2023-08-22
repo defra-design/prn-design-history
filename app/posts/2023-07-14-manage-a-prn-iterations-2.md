@@ -51,9 +51,9 @@ Changed to ‘Where did the waste come from’ but then deleted as it is not nee
 
 
 
-Changed language to Create, draft and send
+From previous roounds and this round lots of users have been confused by the terminology 'Rasied' and 'issued' PRNs we've changed language to Create, draft and send.
 
-Changed reference label to ‘PRN number’
+changed reference label to ‘PRN number’
 
 ![create a prn ](/create-prn.png)
 
@@ -69,6 +69,7 @@ Added cancel and send to details page
 
 ### Quarterly returns -
 
-Users might not be realising where it gets sent to, based on reading into the comments in UR
+Users might not be realising where it gets sent to, based on reading into the comments in UR, Added  Environment Agency on the confirmation page.
 
-Added EA on the confirmation page
+
+![EA-confirmation ](/EA-confirmation.png)
