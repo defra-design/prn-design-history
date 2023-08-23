@@ -1,13 +1,13 @@
 ---
-title: First iteration based on the first round of research on Regulator prototype
+title: First iteration based on the first round of research on regulator prototype
 description: This post is about first iteration based on the first round of research on Regulator prototype sprint 6
-date: 2023-08-17
+date: 2023-08-23
 
 ---
 
 
 
-This post is about first iteration based on the first round of research on Regulator prototype
+This post is about first iteration based on the first round of research on regulator prototype.
 
 
 
@@ -52,7 +52,7 @@ On both cancel and suspend, removed the line about emails being sent
 
 Reactivating after revoking has been removed as it is not how the process works
 
-![cancel](/cancel-revoke.png)
+![cancel](/revoke.png)
 
 
 ### Still  to do
