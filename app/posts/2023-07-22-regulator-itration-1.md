@@ -24,7 +24,7 @@ Users would like a contact for the registered address, but we need to investigat
 ### User details
 
 Users were confused by some new terminology around user types and roles that don't align to NPWD terminology
-Changed to Authorised
+Changed to Authorised.
 
 
 Regulators would expect to see role / job description/ relationship between delegated users and the organisation (particularly applied to consultants) - we don’t collect this, needs changes to enrolment
