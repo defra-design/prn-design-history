@@ -12,28 +12,25 @@ This post is about first iteration based on the first round of research on regul
 
 
 
+
 ### Organisation details
 
-Users need to be able to differentiate between Registered (Companies House) address, Business/head office address (if different to Registered) and site address(es) - Changed to Registered office address
+Users needed to be able to differentiate between Registered (Companies House) address, Business/Head Office address (if different to Registered) and Site address(es) - Changed ‘Company address’ to ‘Registered office address’
 
-Users would like a contact for the registered address, but we need to investigate how to get this on the registration journey when that is designed.
+Users also specified that they would like a contact for the registered address, but before adding this, we need to investigate how to get this from the registration journey when that is designed.
 
 ![organisation details](/org-details.png)
 
 
 ### User details
 
-Users were confused by some new terminology around user types and roles that don't align to NPWD terminology
-Changed to Authorised.
+Users were confused by some new terminology around user types and roles that don't align to NPWD terminology, so we changed to ‘Authorised’.
 
+Regulators would expect to see the role, job description or relationship between delegated users and the organisation (this particularly applied to consultant users) - we don’t currently collect this, needs changes to EPR enrolment.  
 
-Regulators would expect to see role / job description/ relationship between delegated users and the organisation (particularly applied to consultants) - we don’t collect this, needs changes to enrolment
+Job titles and phone numbers would be useful for all users. Again, we don’t currently collect this, needs changes to EPR enrolment.
 
-Job titles and phone numbers would be useful for all users
-
-we don’t collect this, needs changes to enrolment
-
-Users had an expectation of being able to add / remove / amend users and user details - need to see what we want to do here - is it possible
+Users had an expectation of being able to add, remove or amend users and user details. We need further investigation to see what is appropriate and possible.  
 
 ![user details](/user-details.png)
 
@@ -43,21 +40,12 @@ Users had an expectation of being able to add / remove / amend users and user de
 
 ### Changed revoke to cancel
 
-Didn’t understand revoke, they know it as ‘cancelling’
-Changed revoke to cancel everywhere
+Users didn’t understand revoke, they know it as ‘cancelling’, so we changed ‘revoke’ to ‘cancel’
 
-Success page - changed from revoke to cancel
+Success page - changed from ‘revoke’ to ‘cancel’
 
-On both cancel and suspend, removed the line about emails being sent
+As per user feedback on not wanting the system to notify users that they were being suspended or cancelled, we removed the line about emails being sent. The regulators prefer to handle this messaging and communication themselves offline.  
 
-Reactivating after revoking has been removed as it is not how the process works
+Reactivating an accreditation after revoking it has been removed, as it is not how the process works. They must reapply for accreditation.  
 
 ![cancel](/revoke.png)
-
-
-### Still  to do
-
- Make sure we have all statuses for accreditation applications
-
-
-current accreditation balance and all transactions (waste records and PRNs) on this overview screen
