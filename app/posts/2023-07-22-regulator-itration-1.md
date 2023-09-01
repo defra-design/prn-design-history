@@ -1,5 +1,5 @@
 ---
-title: First iteration based on the first round of research on regulator prototype
+title: Sprint 7
 description: This post is about first iteration based on the first round of research on Regulator prototype sprint 6
 date: 2023-08-23
 
@@ -46,6 +46,6 @@ Removed the suspend until date as the users told us this is not how they work, t
 
 Reactivating an accreditation after revoking it has been removed, as it is not how the process works. They must reapply for accreditation.
 
-As per user feedback on not wanting the system to notify users that they were being suspended or cancelled, we removed the line about emails being sent. The regulators prefer to handle this messaging and communication themselves offline. 
+As per user feedback on not wanting the system to notify users that they were being suspended or cancelled, we removed the line about emails being sent. The regulators prefer to handle this messaging and communication themselves offline.
 
 ![cancel](/revoke.png)
