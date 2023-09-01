@@ -1,6 +1,6 @@
 ---
-title: Sprint 4
-description: This post is about the second iteration of raising, issuing, and managing a PRN based on research from sprint 4.
+title: Second iteration – raising, issuing and managing a PRN and record your waste
+description: This post is about the second iteration of raising, issuing, and managing a PRN based on research from sprint 4. 
 date: 2023-07-17
 
 ---

@@ -1,5 +1,5 @@
 [  {
-    "title": "Sprint 1",
+    "title": "Initial version – raising, issuing and managing PRN",
 "description": "This post is about the first iteration of raising, issuing and managing a PRN designed by Helen and Joe","section": "Home",    "layout": "post",
     "hasFrontmatterDate": true,
     "date": "1 June 2023",
@@ -13,35 +13,35 @@
     "templateContent": "",
     "url": "/"
   },  {
-    "title": "Sprint 2",
+    "title": "Initial version – waste data submission",
 "description": "This post is about the first iteration of waste data submission","section": "Home",    "layout": "post",
     "hasFrontmatterDate": true,
     "date": "20 June 2023",
     "templateContent": "this post about first iteration waste data submission co design session ran with product team better understand requirements created basic flow mural board required creating record changing over year 1 2 initial prototype using gov.uk kit collaboratively these are some key decisions made language have decided use like create describe what they doing can then submitted part their quarterly monthly returns sprint 4 users will balance from raise against going analyse used by participants ur sessions observe how interact content assess works file upload one assumptions want test research whether our find useful being able instead entering all information manually took journey directly rpd did minor changes make appropriate enter source name there requirement wanted add into currently get them ready future versions records view allow see that been edit check your answers style page columns table npwd valuable iterate plan through its round user 5",
     "url": "/waste-data/"
   },  {
-    "title": "Sprint 3",
+    "title": "First iteration – raising, issuing and managing a PRN",
 "description": "This post is about the first iteration of raising, issuing, and managing a PRN based on research from sprint 3.","section": "Home",    "layout": "post",
     "hasFrontmatterDate": true,
     "date": "30 June 2023",
     "templateContent": "this post about first iteration raising issuing managing prn based research from sprint 3 main iterations made were: removed all optional questions changed order manage your create waste record boxes pages put accreditations added previous years too link content raised box clearer that where ones are issued table with filters skip next continue button flow because most participants said they either find them useful feel comfortable filling out particularly case around prices raise landing accreditation screen task comments three being unsure which were choosing original page also mentioned would like able view these two actually things description amended text users commented understand prns had gone when issue action led have read opposite way focus might require further pre filtered tables clear amend felt having fourth layer underneath difficult adding confusion navigating design show can by gives flexibility manipulate data interested see ask features including ordering columns search notice unless prompted moved call",
     "url": "/manage-a-prn-iterations/"
   },  {
-    "title": "Sprint 4",
+    "title": "Second iteration – raising, issuing and managing a PRN and record your waste",
 "description": "This post is about the second iteration of raising, issuing, and managing a PRN based on research from sprint 4.","section": "Home",    "layout": "post",
     "hasFrontmatterDate": true,
     "date": "17 July 2023",
     "templateContent": "this post about second iteration raising issuing managing prn based research sprint 4 changes manage your landing page continuing from our previous users were still confused by where issued prns are clicking raised instead made some significant screen including moving into table also added line content describe what actions possible renamed draft match language used departure npwd will need further testing feel resonate better with new who widely recognised term whereas can ambiguous alongside confusion around which accreditation they recording waste against address changed caption above h1 task doing example record now file upload expressing clear user able add multiple records once realise that option specifically there them unsure thought could pictures evidence extra express see benefit might meet their experimental version heard lot feedback journeys being too often mentioning gds approach one thing per felt comparison all would take longer fill response have created test next uses logical thematic groupings data items significantly reduce number pages",
     "url": "/manage-a-prn-waste-data/"
   },  {
-    "title": "Sprint 6",
+    "title": "Third iteration – creating PRN and record your waste",
 "description": "This post is about third iteration based on the fourth round of research on creating PRN and record your waste from sprint 6","section": "Home",    "layout": "post",
     "hasFrontmatterDate": true,
     "date": "17 August 2023",
     "templateContent": "this post about third iteration based fourth round research creating prn record your waste from sprint 6 accreditation page tested with proxy user access needs they suggested that would expect content explain what have since added description below h1 there are numerous actions available next feel need some why should choose will allow them type descriptive left out beginning design process like encourage users tell us think interactions most mentioned telling when their return due line submit returns box date who supply understand terminology focused call action only generically recording then put question received vs supplied keeps journey makes less prominent wanted able filter records by monthly quarterly delete made mistake filters same style screens looking adding multiple csv file changed spreadsheet initially confused screen registered accredited site which first where did come later deleted decided product level needed create prns previous rounds ur been mimic inbox mental models language clarify further label say identified cancel details send realised while comments possibility might realising gets sent directly however felt mandated mentioning going being environment agency confirmation dynamic",
     "url": "/manage-a-prn-iterations-2/"
   },  {
-    "title": "Sprint 7",
+    "title": "First iteration – regulator prototype",
 "description": "This post is about first iteration based on the first round of research on Regulator prototype sprint 6","section": "Home",    "layout": "post",
     "hasFrontmatterDate": true,
     "date": "23 August 2023",

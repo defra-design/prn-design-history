@@ -1,6 +1,6 @@
 ---
-title: Sprint 2
-description: This post is about the first iteration of waste data submission
+title: Initial version – waste data submission
+description: This post is about the first iteration of waste data submission 
 date: 2023-06-20
 
 ---
