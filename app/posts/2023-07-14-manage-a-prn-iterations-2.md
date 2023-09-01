@@ -47,16 +47,16 @@ Multiple users initially confused this screen with the registered/accredited sit
 
 At first we changed to ‘Where did the waste come from’ but then later deleted it as it was decided at a product level that this page was not needed.
 
+![waste-source](/wastesource.png)
 
-
-### Create PRNs -
+### Create PRNs
 
 
 
 In this, and previous rounds of UR, users have been confused by the terminology 'Raised' and 'issued' PRNs, so to mimic inbox mental models, we've changed the language to ‘create’, ‘draft’ and ‘send’.
 
 
-To clarify language further based on UR we changed the ‘Reference’ label to say ‘PRN number’
+To clarify language further based on UR we changed the ‘Reference’ label to say ‘PRN number’.
 
 We identified in UR a need to cancel PRNs from the details page, so we added call to actions to cancel and send to the details page.
 
@@ -65,14 +65,14 @@ We identified in UR a need to cancel PRNs from the details page, so we added cal
 
 A need to cancel PRNs from the details page.
 
-Added cancel and send to details page
+Added cancel and send to details page.
 
 
 
 ![create a prn ](/cancel-prn.png)
 
 
-### Quarterly returns -
+### Quarterly returns
 We realised while looking at the comments in the UR that there was a possibility that the users might not be realising where the quarterly return gets sent to.  
 
 Users did not say this directly, however we felt as it is a mandated return, mentioning who it is going to was needed.  

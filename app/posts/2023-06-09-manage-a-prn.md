@@ -16,9 +16,9 @@ Initial flow and design work were done in [figma](https://www.figma.com/file/Oph
 ### Using components from design system backlog
 
 
-We are using [Dave House card patterns](https://github.com/alphagov/govuk-design-system-backlog/issues/113#issuecomment-390905761) from design system backlog
+We are using [Dave House card patterns](https://github.com/alphagov/govuk-design-system-backlog/issues/113#issuecomment-390905761) from design system backlog.
 
-We plan to feedback any research we get into the card pattern into the alphagov backlog
+We plan to feedback any research we get into the card pattern into the alphagov backlog.
 
 ![dave house card patterns](/cards.png)
 
@@ -27,11 +27,11 @@ We plan to feedback any research we get into the card pattern into the alphagov 
 
 Normally we would avoid asking questions which are optional or clearly mark them but we want to find out through research a few different things:
 
-1. Whether users sell their PRNs before raising them
+-  whether users sell their PRNs before raising them
 
-2. Whether users find adding details about the sale useful
+-  whether users find adding details about the sale useful
 
-3. Whether users find being able to add their own reference and note useful
+-  whether users find being able to add their own reference and note useful
 
 This information will help support new reporting requirements in the new legislation and provide insight into how we can improve on NPWD, their existing system.
 
@@ -42,7 +42,7 @@ This information will help support new reporting requirements in the new legisla
 
 We have a landing page which aims to provide a way for reprocessors and exporters to manage their PRNs, they can see which PRNs have been raised and need issuing. They can also track the PRN as it gets approved by the compliance scheme or producer.  
 They should be able to use this page and immediately see what needs to be done next and what statuses the PRNs have.  
-The boxes click through to filtered tables, from which they are able to apply various actions, including viewing, editing, issuing, deleting and cancelling. 
+The boxes click through to filtered tables, from which they are able to apply various actions, including viewing, editing, issuing, deleting and cancelling.
 
 ![manage your PRNs](/dashboard.png)
 

@@ -26,28 +26,28 @@ The main iterations we made were:
 
 ###  Removed all of the optional questions
 
-We removed all the optional questions from the PRN flow because most of the participants said they either wouldn’t find them useful or didn’t feel comfortable filling them out.
+We removed all the optional questions from the PRN flow because most of the participants said they either wouldn’t find them useful or didn’t feel comfortable filling them out. this was particularly the case with questions around PRN prices.
 
 ###  Changed the order of raise a PRN/waste record boxes and changed order of landing pages
 
-We changed the order of the accreditation screen and task screen based on comments from 3 participants about being unsure which accreditation they were choosing on the original landing page.
+We changed the order of the accreditation screen and task screen based on comments from three participants about being unsure which accreditation they were choosing on the original landing page.
 We also added previous accreditations as they mentioned they would like to be able to view these.  
 
 
 ![manage your PRNs](/accreditations.png)
 
 
-2 participants mentioned the order of the ‘task’ page wasn’t in the order you actually do things, ‘record your waste’ would be first.
+Two participants mentioned the order of the ‘task’ page wasn’t in the order you actually do things, ‘record your waste’ would be first.
 
 ![manage your PRNs](/paperboard.png)
 
-###  Changed the link content and description on the raised PRN box so it is clearer that is where the raised ones are
+###  Changed the link content and description on the raised PRN box so it is clearer where the raised ones are
 
 
 ![manage your PRNs](/raisedprns.png)
 
 We amended the link text and description as the users commented that they couldn’t understand where the Raised PRNs had gone when it said ‘Issue PRNs’ as the action-led link.  
-We have changed it to read the opposite way, where the raised PRNs is the focus with the issuing action mentioned in the description – this might require further iteration.
+We have changed it to read the opposite way, where raised PRNs is the focus with the issuing action mentioned in the description – this might require further iteration.
 
 
 ###  Changed the issued PRN boxes to be a table with filters

@@ -11,11 +11,9 @@ This post is about first iteration based on the first round of research on regul
 
 
 
-
-
 ### Organisation details
 
-Users needed to be able to differentiate between Registered (Companies House) address, Business/Head Office address (if different to Registered) and Site address(es) - Changed ‘Company address’ to ‘Registered office address’
+Users needed to be able to differentiate between Registered (Companies House) address, Business/Head Office address (if different to Registered) and Site address(es) - Changed ‘Company address’ to ‘Registered office address’.
 
 Users also specified that they would like a contact for the registered address, but before adding this, we need to investigate how to get this from the registration journey when that is designed.
 
@@ -40,12 +38,14 @@ Users had an expectation of being able to add, remove or amend users and user de
 
 ### Changed revoke to cancel
 
-Users didn’t understand revoke, they know it as ‘cancelling’, so we changed ‘revoke’ to ‘cancel’
+Users didn’t understand revoke, they know it as ‘cancelling’, so we changed ‘revoke’ to ‘cancel’.
 
-Success page - changed from ‘revoke’ to ‘cancel’
+Success page - changed from ‘revoke’ to ‘cancel’.
 
-As per user feedback on not wanting the system to notify users that they were being suspended or cancelled, we removed the line about emails being sent. The regulators prefer to handle this messaging and communication themselves offline.  
+Removed the suspend until date as the users told us this is not how they work, they do not apply an end date to suspensions or cancellations.
 
-Reactivating an accreditation after revoking it has been removed, as it is not how the process works. They must reapply for accreditation.  
+Reactivating an accreditation after revoking it has been removed, as it is not how the process works. They must reapply for accreditation.
+
+As per user feedback on not wanting the system to notify users that they were being suspended or cancelled, we removed the line about emails being sent. The regulators prefer to handle this messaging and communication themselves offline. 
 
 ![cancel](/revoke.png)
