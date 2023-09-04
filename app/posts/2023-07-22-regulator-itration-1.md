@@ -1,5 +1,5 @@
 ---
-tags: Initial version, iteration, regulator
+tags: ['Initial version', 'Iteration', 'Regulator']
 title: First iteration – regulator prototype
 description: This post is about first iteration based on the first round of research on Regulator prototype sprint 6
 date: 2023-08-23
