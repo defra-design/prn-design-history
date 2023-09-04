@@ -1,6 +1,6 @@
 ---
-title: DRAFT
-description:
+title: Fourth iteration - creating a PRN and record your waste
+description: This post is about fourth iteration based on the fifth round of research on creating PRN and record your waste from sprint 8
 date: 2023-09-01
 
 ---
@@ -12,7 +12,6 @@ date: 2023-09-01
 ![PRN details ](/PRN-detials.png)
 
 ### Accreditation page redesign - site added
-
 
 
 ![manage your PRNs](/accreditation-redesign.png)
