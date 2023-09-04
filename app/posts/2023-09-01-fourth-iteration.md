@@ -1,6 +1,6 @@
 ---
-title: Fourth iteration - creating a PRN and record your waste
-description: This post is about fourth iteration based on the fifth round of research on creating PRN and record your waste from sprint 8
+title: Fourth iteration – creating a PRN and record your waste
+description: This post is about fourth iteration based on the fifth round of research on creating PRN and record your waste from sprint 8.
 date: 2023-09-01
 
 ---
@@ -9,22 +9,25 @@ date: 2023-09-01
 
 
 
-![PRN details ](/PRN-detials.png)
+![PRN details](/PRN-detials.png)
 
 ### Accreditation page redesign - site added
 
 
-![manage your PRNs](/accreditation-redesign.png)
+![accreditation redesign](/accreditation-redesign.png)
 
 ### Accreditation details - limits and validation errors etc
 
-![manage your PRNs](/kick-out.png)
+![kick out](/kick-out.png)
 
 
-![manage your PRNs](/validation.png)
+![validation](/validation.png)
 
 ### What have you done with the waste - changed from recycling - failed experiment!
 
-![manage your PRNs](/what-done-waste.png)
+![what you done with the waste](/what-done-waste.png)
+
 ### Site name in caption
-![manage your PRNs](/site-name-caption.png)
+
+
+![site name](/site-name-caption.png)
