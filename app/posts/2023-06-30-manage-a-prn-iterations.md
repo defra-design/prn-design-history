@@ -1,6 +1,7 @@
 ---
+tags: PRN, iteration
 title: First iteration – raising, issuing and managing a PRN
-description: This post is about the first iteration of raising, issuing, and managing a PRN based on research from sprint 3. 
+description: This post is about the first iteration of raising, issuing, and managing a PRN based on research from sprint 3.
 date: 2023-06-30
 
 ---
