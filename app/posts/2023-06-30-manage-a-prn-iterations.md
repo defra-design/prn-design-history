@@ -63,7 +63,8 @@ We are interested to see if they ask for further features including ordering the
 ![manage your PRNs](/prnfiltered.png)
 
 
-###  Changed the skip link to be next to the continue button and removed optional questions from raising a prn
+###  Changed the skip link to be next to the continue button and removed optional questions from raising a PRN
+
 
 Most of the participants didn’t notice the skip link unless prompted so we have moved it next to the main call to action.
 
