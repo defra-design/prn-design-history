@@ -17,7 +17,7 @@ We put the December waste question first to help with validation, so we immediat
 
 ### Accreditation page redesign - site added
 
-‘Multiple site’ users were worried that the accreditation shown might be showing site balances added together​. We have redesigned to show sites per accreditation​.
+Consultants and a user with ‘Multiple site’ queried if the accreditation shown might be showing site balances added together​. We have redesigned to show sites per accreditation​.
 
 
 
